@@ -1,6 +1,3 @@
-### `sinatra-api`
-
-```md
 # sinatra-api
 
 Учебный API-проект на Sinatra.
